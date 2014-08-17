@@ -1,3 +1,4 @@
 This is a remote file created in GitHub Repo.
-Modifying the remote file from a different location. 
+Making some changes online. Modifying the remote file from a different location. 
 Adding a line in local repo in a remote file
+New line added. 
