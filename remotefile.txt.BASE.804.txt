@@ -1,0 +1,2 @@
+This is a remote file created in GitHub Repo.
+Modifying the remote file from a different location. 
